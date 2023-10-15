@@ -440,7 +440,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Derivation scheme for P2WPKH based accounts
 | Pavol Rusnak
 | Informational
-| Draft
+| Final
 |-
 | [[bip-0085.mediawiki|85]]
 | Applications
@@ -1077,7 +1077,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Bech32m format for v1+ witness addresses
 | Pieter Wuille
 | Standard
-| Draft
+| Final
 |-
 | [[bip-0351.mediawiki|351]]
 | Applications
@@ -1153,6 +1153,13 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Applications
 | tr() Output Script Descriptors
 | Pieter Wuille, Andrew Chow
+| Informational
+| Draft
+|-
+| [[bip-0389.mediawiki|389]]
+| Applications
+| Multipath Descriptor Key Expressions
+| Andrew Chow
 | Informational
 | Draft
 |}
